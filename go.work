@@ -4,4 +4,5 @@ use (
 	./broker
 	./circuit-breaker
 	./scatter-gather
+	./servico-historico
 )
